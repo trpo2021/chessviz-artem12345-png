@@ -1,0 +1,6 @@
+bin/*
+obj/src/chess/*.o
+obj/src/libchess/*.o
+obj/src/libchess/*.a
+obj/test/*.o
+obj/test/*.a
